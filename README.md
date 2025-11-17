@@ -3,7 +3,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif" height="200" />
+  <img src="[https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)" height="200" />
   <p>I’m Talha, a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
 </div>
 
