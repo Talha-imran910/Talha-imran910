@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif" height="200" />
-  <p>I’m Talha — a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
+  <p>I’m Talha  a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
 </div>
 
 ###
@@ -55,22 +55,5 @@
 
 ###
 
-<br clear="both">
 
-<h2 align="center">🐍 Snake Contribution Animation</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/snake.svg" />
-</div>
-
-###
-
-<h2 align="center">🟡 Pacman Contribution Graph</h2>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/pacman-contribution-graph.svg">
-</picture>
-</div>
