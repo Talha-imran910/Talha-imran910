@@ -1,8 +1,12 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<div align="center">
+<div align="center" style="position: relative;">
+  <!-- Main GIF (top-middle-right) -->
+  <img src="https://i.imgflip.com/65efzo.gif" height="100" style="position: absolute; top: 0; right: 0;" />
+
+  <!-- Centered main content -->
   <img src="https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif" height="200" />
-  <p>I’m Talha  a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
+  <p>I’m Talha, a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
 </div>
 
 ###
@@ -38,22 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Talha-imran910&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-imran910&theme=dracula&layout=compact" height="150" />
 </div>
-
-
-
-<img align="right" height="150" src="[GIF_URL](https://i.imgflip.com/65efzo.gif)" />
-
-
-
-
-
-<h2 align="center">✨ Languages I Use</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-</div>
-
-
-
-
-
