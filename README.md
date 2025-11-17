@@ -41,7 +41,8 @@
 
 
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" style="margin-top:-40px;" src="[GIF_URL](https://i.imgflip.com/65efzo.gif)" />
+
 
 
 
