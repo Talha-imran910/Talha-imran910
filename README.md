@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
+  <img src="https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif" height="180" />
   <p>I’m Talha — a frontend dev, crypto trader, and a learner who keeps evolving every single day.</p>
 </div>
 
@@ -44,13 +45,13 @@
 
 ---
 
-## 🐍 Snake Contribution Animation (WORKING)
+## 🐍 Snake Contribution Animation
 
 <img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/snake.svg" alt="Snake animation" />
 
 ---
 
-## 🟡 Pacman Contribution Graph (WORKING)
+## 🟡 Pacman Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/pacman-contribution-graph-dark.svg">
