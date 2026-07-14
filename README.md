@@ -3,19 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Talha-imran910's GitHub profile" src="dark_mode.svg" />
 </picture>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
-</div>
-<h1 align="center">Hey 👋 What's Up?</h1>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0e/65/ed/0e65edc6de2c9a6f9a71b5ac8edfdd33.gif" height="200" />
-  <p>I’m Talha, a Python lover, a dreamer, and someone who keeps building, learning & evolving every day.</p>
-</div>
-
-###
-
-<h2 align="center">⚡ Tech Stack (Python Only)</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo" />
