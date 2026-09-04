@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,45:111827,75:1e293b,100:020617&text=TALHA%20IMRAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Red%20Teaming&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Talha Imran cybersecurity GitHub profile banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Cybersecurity+Student+%7C+Offensive+Security;Penetration+Testing+%7C+Red+Teaming;Web+Security+%7C+Network+Security;Active+Directory+%7C+Linux+%7C+Cloud+Security;Build.+Break.+Learn.+Repeat." alt="Animated cybersecurity introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Cybersecurity+%7C+Offensive+Security;Penetration+Testing+%7C+Red+Teaming;Web+Security+%7C+Network+Security;Active+Directory+%7C+Linux+%7C+Cloud+Security;Build.+Break.+Learn.+Repeat." alt="Talha Imran animated cybersecurity introduction" /></a>
 
 <p>
-<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/badge/GitHub-Talha--imran910-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/talha-imran-3b9812268/"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Imran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=Talha-imran910&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/badge/GitHub-Talha--imran910-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub" /></a>
+<a href="https://www.linkedin.com/in/talha-imran-3b9812268/"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Imran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Talha Imran LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=Talha-imran910&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" alt="Talha Imran profile views" />
 </p>
 
 </div>
@@ -23,6 +23,11 @@ Talha Imran
 
 └─$ cat focus.txt
 Cybersecurity • Offensive Security • Penetration Testing • Red Teaming
+
+└─$ cat identity.txt
+GitHub:   Talha-imran910
+LinkedIn: Talha Imran
+Focus:    Cybersecurity / Security Engineering
 
 └─$ cat mindset.txt
 Understand the system. Test the system. Secure the system.
@@ -64,7 +69,7 @@ done
 ## `arsenal/` — Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,windows,docker,git,github,html,css,js,mysql,cloudflare&perline=7" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,windows,docker,git,github,html,css,js,mysql,cloudflare&perline=7" alt="Talha Imran technologies" />
 </div>
 
 ### Security
@@ -177,65 +182,56 @@ I care about **why an attack works**, not just which command works.
 
 <div align="center">
 
-<a href="https://github.com/Talha-imran910">
-<img src="https://github-readme-stats.vercel.app/api?username=Talha-imran910&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800" height="180" alt="Talha Imran GitHub statistics" />
-</a>
-<a href="https://github.com/Talha-imran910">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-imran910&layout=compact&hide_border=true&langs_count=8&theme=github_dark&cache_seconds=1800" height="180" alt="Talha Imran top GitHub languages" />
+<a href="https://github.com/Talha-imran910/blob/main/README.md">
+<img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/profile-stats.svg" width="860" alt="Talha Imran self-hosted GitHub statistics" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Talha-imran910?tab=repositories">
-<img src="https://img.shields.io/github/repo-size/Talha-imran910/Talha-imran910?style=for-the-badge&label=PROFILE%20REPO%20SIZE" alt="Profile repository size" />
-</a>
 <a href="https://github.com/Talha-imran910">
-<img src="https://img.shields.io/github/followers/Talha-imran910?style=for-the-badge&label=FOLLOWERS" alt="Talha Imran GitHub followers" />
+<img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/profile-languages.svg" width="860" alt="Talha Imran GitHub language profile" />
 </a>
-<a href="https://github.com/Talha-imran910">
-<img src="https://img.shields.io/github/stars/Talha-imran910/Talha-imran910?style=for-the-badge&label=PROFILE%20STARS" alt="Talha Imran profile repository stars" />
-</a>
+
+<br/>
+
+<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/github/followers/Talha-imran910?style=for-the-badge&label=FOLLOWERS" alt="Talha Imran GitHub followers" /></a>
+<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/github/stars/Talha-imran910?style=for-the-badge&label=TOTAL%20STARS" alt="Talha Imran total GitHub stars" /></a>
+<a href="https://github.com/Talha-imran910?tab=repositories"><img src="https://img.shields.io/github/repos/Talha-imran910?style=for-the-badge&label=PUBLIC%20REPOS" alt="Talha Imran public repositories" /></a>
 
 </div>
 
-> **Note:** the large stats cards are powered by a third-party service. The badges below them are independent fallbacks, so the section still contains useful live GitHub signals if the stats service is rate-limited.
+The two main cards above are generated by **this repository's own GitHub Action** and published to the `output` branch. That removes the fragile third-party statistics endpoint that was previously responsible for intermittent image failures.
 
 ---
 
 ## `activity.log` — LIVE
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ TALHA IMRAN :: GITHUB ACTIVITY                               │
-├──────────────────────────────────────────────────────────────┤
-│ [LIVE] Profile        → github.com/Talha-imran910            │
-│ [LIVE] Contributions  → github.com/Talha-imran910            │
-│ [LIVE] Repositories   → github.com/Talha-imran910?tab=repos  │
-│ [LIVE] Activity       → github.com/Talha-imran910?tab=activity│
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ TALHA IMRAN :: GITHUB ACTIVITY                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│ [LIVE] PROFILE       → github.com/Talha-imran910                   │
+│ [LIVE] CONTRIBUTIONS → github.com/Talha-imran910                   │
+│ [LIVE] REPOSITORIES  → github.com/Talha-imran910?tab=repositories   │
+│ [LIVE] ACTIVITY      → github.com/Talha-imran910?tab=activity       │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-No external activity-graph image here. The old graph endpoint was a third-party dependency and was returning an error instead of an image.
+No fragile activity-graph image is used here. GitHub itself remains the source of truth for activity and contributions.
 
 ---
 
-## `achievements/` — VERIFIED SIGNALS
+## `achievements/` — VERIFIED
 
 <div align="center">
 
-<a href="https://github.com/Talha-imran910?tab=overview">
-<img src="https://img.shields.io/badge/GITHUB%20PROFILE-TALHA%20IMRAN-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub profile" />
-</a>
-<a href="https://github.com/Talha-imran910?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran open source repositories" />
-</a>
-<a href="https://github.com/Talha-imran910?tab=achievements">
-<img src="https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub achievements" />
-</a>
+<a href="https://github.com/Talha-imran910?tab=overview"><img src="https://img.shields.io/badge/GITHUB%20PROFILE-TALHA%20IMRAN-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub profile" /></a>
+<a href="https://github.com/Talha-imran910?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran open source repositories" /></a>
+<a href="https://github.com/Talha-imran910?tab=achievements"><img src="https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub achievements" /></a>
 
 </div>
 
-I removed the old trophy generator rather than displaying a broken third-party image or inventing achievements. Your actual GitHub profile remains the source of truth.
+I deliberately removed the old trophy generator. Your actual GitHub achievements are displayed by GitHub itself, so the profile will never claim an achievement that you have not earned.
 
 ---
 
@@ -251,7 +247,7 @@ I removed the old trophy generator rather than displaying a broken third-party i
 
 </div>
 
-The snake is now generated by this repository's GitHub Action and published to the `output` branch. It is no longer dependent on a pre-existing external image.
+Generated automatically from **Talha Imran's** contribution graph by `.github/workflows/snake.yml` and published to the `output` branch.
 
 ---
 
@@ -296,12 +292,12 @@ One shell at a time.
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:050505&section=footer&animation=fadeIn" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:050505&section=footer&animation=fadeIn" width="100%" alt="Talha Imran animated footer" />
 </div>
 
 <!--
 Identity / discovery keywords:
-Talha Imran | Talha-imran910 | Cybersecurity | Penetration Testing |
+Talha Imran | Talha-imran910 | Karachi | Cybersecurity | Penetration Testing |
 Offensive Security | Red Teaming | Web Security | Network Security |
 Active Directory | Linux | Cloud Security | Python | Security Automation
 -->
