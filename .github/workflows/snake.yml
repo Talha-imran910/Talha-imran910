@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -12,7 +12,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: snake-${{ github.ref }}
+  group: profile-assets-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -22,6 +22,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,7 +33,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated SVGs
+      - name: Generate self-hosted profile statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile_stats.py
+
+      - name: Publish generated profile assets
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
