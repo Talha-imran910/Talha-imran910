@@ -182,7 +182,7 @@ I care about **why an attack works**, not just which command works.
 
 <div align="center">
 
-<a href="https://github.com/Talha-imran910/blob/main/README.md">
+<a href="https://github.com/Talha-imran910">
 <img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/profile-stats.svg" width="860" alt="Talha Imran self-hosted GitHub statistics" />
 </a>
 
@@ -195,8 +195,7 @@ I care about **why an attack works**, not just which command works.
 <br/>
 
 <a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/github/followers/Talha-imran910?style=for-the-badge&label=FOLLOWERS" alt="Talha Imran GitHub followers" /></a>
-<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/github/stars/Talha-imran910?style=for-the-badge&label=TOTAL%20STARS" alt="Talha Imran total GitHub stars" /></a>
-<a href="https://github.com/Talha-imran910?tab=repositories"><img src="https://img.shields.io/github/repos/Talha-imran910?style=for-the-badge&label=PUBLIC%20REPOS" alt="Talha Imran public repositories" /></a>
+<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/github/stars/Talha-imran910/Talha-imran910?style=for-the-badge&label=PROFILE%20STARS" alt="Talha Imran profile repository stars" /></a>
 
 </div>
 
