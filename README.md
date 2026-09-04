@@ -173,40 +173,85 @@ I care about **why an attack works**, not just which command works.
 
 ---
 
-## `github_stats/`
+## `github_stats/` — Talha Imran
 
 <div align="center">
-<a href="https://github.com/Talha-imran910"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Talha-imran910&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" /></a>
-<a href="https://github.com/Talha-imran910"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-imran910&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages" /></a>
+
+<a href="https://github.com/Talha-imran910">
+<img src="https://github-readme-stats.vercel.app/api?username=Talha-imran910&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=1800" height="180" alt="Talha Imran GitHub statistics" />
+</a>
+<a href="https://github.com/Talha-imran910">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-imran910&layout=compact&hide_border=true&langs_count=8&theme=github_dark&cache_seconds=1800" height="180" alt="Talha Imran top GitHub languages" />
+</a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Talha-imran910&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak" />
+<a href="https://github.com/Talha-imran910?tab=repositories">
+<img src="https://img.shields.io/github/repo-size/Talha-imran910/Talha-imran910?style=for-the-badge&label=PROFILE%20REPO%20SIZE" alt="Profile repository size" />
+</a>
+<a href="https://github.com/Talha-imran910">
+<img src="https://img.shields.io/github/followers/Talha-imran910?style=for-the-badge&label=FOLLOWERS" alt="Talha Imran GitHub followers" />
+</a>
+<a href="https://github.com/Talha-imran910">
+<img src="https://img.shields.io/github/stars/Talha-imran910/Talha-imran910?style=for-the-badge&label=PROFILE%20STARS" alt="Talha Imran profile repository stars" />
+</a>
+
 </div>
+
+> **Note:** the large stats cards are powered by a third-party service. The badges below them are independent fallbacks, so the section still contains useful live GitHub signals if the stats service is rate-limited.
 
 ---
 
-## `activity.log`
+## `activity.log` — LIVE
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-imran910&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ TALHA IMRAN :: GITHUB ACTIVITY                               │
+├──────────────────────────────────────────────────────────────┤
+│ [LIVE] Profile        → github.com/Talha-imran910            │
+│ [LIVE] Contributions  → github.com/Talha-imran910            │
+│ [LIVE] Repositories   → github.com/Talha-imran910?tab=repos  │
+│ [LIVE] Activity       → github.com/Talha-imran910?tab=activity│
+└──────────────────────────────────────────────────────────────┘
+```
+
+No external activity-graph image here. The old graph endpoint was a third-party dependency and was returning an error instead of an image.
 
 ---
 
-## `achievements/`
+## `achievements/` — VERIFIED SIGNALS
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Talha-imran910&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" alt="GitHub profile trophies" />
+
+<a href="https://github.com/Talha-imran910?tab=overview">
+<img src="https://img.shields.io/badge/GITHUB%20PROFILE-TALHA%20IMRAN-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub profile" />
+</a>
+<a href="https://github.com/Talha-imran910?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran open source repositories" />
+</a>
+<a href="https://github.com/Talha-imran910?tab=achievements">
+<img src="https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub achievements" />
+</a>
+
 </div>
+
+I removed the old trophy generator rather than displaying a broken third-party image or inventing achievements. Your actual GitHub profile remains the source of truth.
 
 ---
 
 ## `contribution.exe`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Talha-imran910/Talha-imran910/output/github-contribution-grid-snake.svg" alt="Talha Imran animated GitHub contribution snake" />
+</picture>
+
 </div>
+
+The snake is now generated by this repository's GitHub Action and published to the `output` branch. It is no longer dependent on a pre-existing external image.
 
 ---
 
@@ -228,11 +273,11 @@ Principles:
 
 ---
 
-## `connect/`
+## `connect/` — Talha Imran
 
 <div align="center">
-<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/talha-imran-3b9812268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Talha-imran910"><img src="https://img.shields.io/badge/GitHub-Talha%20Imran-111827?style=for-the-badge&logo=github&logoColor=white" alt="Talha Imran GitHub" /></a>
+<a href="https://www.linkedin.com/in/talha-imran-3b9812268/"><img src="https://img.shields.io/badge/LinkedIn-Talha%20Imran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Talha Imran LinkedIn" /></a>
 </div>
 
 If you're interested in **cybersecurity, penetration testing, red teaming, security engineering, or open-source security projects**, explore the repositories and connect through the profiles above.
